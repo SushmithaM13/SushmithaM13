@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### 🛠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,Mongodb,vscode,postman,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vscode,postman,github)](https://skillicons.dev)
 
