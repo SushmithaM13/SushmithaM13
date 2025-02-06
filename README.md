@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vscode,postman,github)](https://skillicons.dev)
 
 ### 📫 Connect with me:
--Email:- sushmithagoud13@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthyam-sushmitha/)
+- Email:- sushmithagoud13@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthyam-sushmitha/)
 
 
 
