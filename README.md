@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m a Full-Stack Web Development
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about HTML | CSS | JavaScript | React | Node.js | Express | MongoDB
-- 📫 How to reach me: [sushmithagoud13@gmail.com] | [Linkedin](www.linkedin.com/in/muthyam-sushmitha)
+- 📫 How to reach me: sushmithagoud13@gmail.com | [Linkedin](www.linkedin.com/in/muthyam-sushmitha)
 - ⚡ Fun fact: Loves badminton & exploring AI-powered tech
-- <!--- 🤔 I’m looking for help with ...-->
+<!--- - 🤔 I’m looking for help with ...
 - <!--- 😄 Pronouns: ...-->
