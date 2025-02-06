@@ -7,7 +7,7 @@ Passionate Full-Stack Web Developer with expertise in HTML, CSS, JavaScript, Rea
 Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m a Full-Stack Web Development
+- 🌱 I’m a Full-Stack Web Developer
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about HTML | CSS | JavaScript | React | Node.js | Express | MongoDB
 - 📫 How to reach me: sushmithagoud13@gmail.com | [Linkedin](https://www.linkedin.com/in/muthyam-sushmitha/)
