@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - <!--- 😄 Pronouns: ...-->
 
 ### 🛠 Languages and Tools:
-- 💻 **Languages**: HTML, CSS, JavaScript  
-- 🌐 **Frontend**: React, Flowbite  
-- ⚙️ **Backend**: Node.js, Express.js  
-- 🗄️ **Database**: MongoDB  
-- 🛠 **Tools**: Git, VS Code, Postman  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodeJS,express,mongoDB)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb)](https://skillicons.dev)
 
