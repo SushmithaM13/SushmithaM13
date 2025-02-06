@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vscode,postman,github)](https://skillicons.dev)
 
 
-##Contact with me:
-- Email:- sushmithagoud13@gmail.com
-- [Linkedin](www.linkedin.com/in/muthyam-sushmitha)
+### 📫 Connect with me:
+- [![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](www.linkedin.com/in/muthyam-sushmitha)
+
