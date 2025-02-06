@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me:
 - Email:- sushmithagoud13@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthyam-sushmitha/)
+- **[![LinkedIn]**(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthyam-sushmitha/)
 
 
 
