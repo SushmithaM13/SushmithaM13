@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚙️ **Backend**: Node.js, Express.js  
 - 🗄️ **Database**: MongoDB  
 - 🛠 **Tools**: Git, VS Code, Postman  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodeJS,express,mongoDB)](https://skillicons.dev)
 
