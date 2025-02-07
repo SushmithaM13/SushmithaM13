@@ -2,7 +2,7 @@
 
 <!--
 **SushmithaM13/SushmithaM13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Passionate Full-Stack Web Developer with expertise in HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. Experienced in building solo and collaborative projects, following industry best practices. Skilled in problem-solving, adaptability, and teamwork, with a focus on writing clean, efficient, and scalable code.
+Dynamic and detail-oriented Full Stack Web Developer with expertise in HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. Skilled in building responsive web applications, problem-solving, and teamwork. Experienced in solo and collaborative projects, delivering clean, efficient, and scalable code. Passionate about creating seamless user experiences.
 
 Here are some ideas to get you started:
 
