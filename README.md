@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m a Full-Stack Web Developer
-- 🚀 All my projects are available on my **[Portfolio](your-portfolio-link)**  
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about HTML | CSS | JavaScript | React | Node.js | Express | MongoDB
 - 📫 How to reach me: sushmithagoud13@gmail.com | [Linkedin](https://www.linkedin.com/in/muthyam-sushmitha/)
